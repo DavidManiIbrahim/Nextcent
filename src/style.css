@@ -195,6 +195,14 @@ nav ul li a {
     margin-top: 60px;
 }
 
+#hero-img{
+    /* border: 1px solid; */
+    width: 25%;
+}
+.frame{
+    width: 100%;
+}
+
 /* Clients Section */
 .clients {
     text-align: center;
