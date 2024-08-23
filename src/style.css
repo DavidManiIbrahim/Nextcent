@@ -374,10 +374,17 @@ nav ul li a {
     position: relative;
     left: 15%;
     width: 60%;
+    
     justify-content: space-between;
     /* gap: 10px; */
     /* border: 1px solid; */
 
+}
+
+.clover{
+    color: purple;
+    width: 30px;
+    height: 30px;
 }
 
 .customer-icons img{
