@@ -29,6 +29,12 @@ body {
     margin: 0 auto;
 }
 
+#hero{
+    height: 55vh;
+    position: relative;
+    top: -50px;
+}
+
 #hero-container {
     position: relative;
     /* right: 190px; */
@@ -214,6 +220,7 @@ nav ul li a {
 
 #how-to-img {
     width:20%;
+    margin-left: 5%;
 }
 
 #how-to-img img{
@@ -223,7 +230,7 @@ nav ul li a {
 #how-to-content{
     position: relative;
     left: 5%;
-    width: 70%;
+    width: 60%;
     /* border: 1px solid; */
     /* padding: 30px; */
 }
@@ -286,6 +293,10 @@ nav ul li a {
     border-radius: 5px;
     width: 30%;
     box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 
 
