@@ -203,6 +203,38 @@ nav ul li a {
     width: 100%;
 }
 
+/* How to */
+
+#how-to-container{
+    display: flex;
+    float: right;
+    padding: 60px 30px ;
+}
+
+
+#how-to-img {
+    width:20%;
+}
+
+#how-to-img img{
+    width: 100%;
+}
+
+#how-to-content{
+    position: relative;
+    left: 5%;
+    width: 70%;
+    /* border: 1px solid; */
+    /* padding: 30px; */
+}
+
+    #how-to-btn{
+        position: relative;
+        top: 10%;
+    }
+
+
+
 /* Clients Section */
 .clients {
     text-align: center;
