@@ -437,12 +437,8 @@ nav ul li a {
     -o-border-radius: 4px;
 }
 
-.demo-btn {
-    background-color: #28a745;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
+.demo-btn a{
+   color: #fff;
     text-decoration: none;
 }
 
